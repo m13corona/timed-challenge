@@ -12,3 +12,4 @@ It is simple to use and it runs in every browser.
 I used the exercises we saw in class as a guide.
 
 ## Website Link
+https://m13corona.github.io/timed-challenge/
