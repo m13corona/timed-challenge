@@ -2,7 +2,7 @@
     font-family: Monaco sans-serif, Courier New;
 }
 
-.start-btn {
+.start-btn :hover {
     color: white;
     background-color: purple;
     border: none; 
