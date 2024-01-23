@@ -1,8 +1,8 @@
 # timed-challenge
 
 ## About
-This project is a timed quiz about coding, it includes three questions with multiple choice answers.  
-It runs in every browser.
+This project is a timed quiz about coding, it includes three questions with multiple choice answers. It is not functional at the moment, however I will continue to update it to make sure it works properly in the future.
+It is simple to use and it runs in every browser.
 
 ## Screenshots
 
